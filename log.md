@@ -7,3 +7,13 @@
 **Link(s) to work**
 1. Twitchtv(https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 2. My pen(https://codepen.io/hk388/pen/zpwNEW)
+
+### Day 2: December 30, Saturday
+
+**Today's Progress**: I worked on twitchtv project - progress (happy dance).
+
+**Thoughts** MTM2017 part 3, challenge 15 vexing me, deadline tomorrow and no clue how to progress.  Worked "Wherefore art thou" code in freeCodeCamp and worked more on twitchtv.  Feeling good about progress there.
+
+**Link(s) to work**
+1. Twitchtv(https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+2. My pen(https://codepen.io/hk388/pen/zpwNEW)
