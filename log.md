@@ -17,3 +17,12 @@
 **Link(s) to work**
 1. Twitchtv(https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 2. My pen(https://codepen.io/hk388/pen/zpwNEW)
+
+### Day 2: December 31, Sunday
+
+**Today's Progress**: Finished Twitch.tv project.
+
+**Thoughts** Worked through a few freeCodeCamp basic algorithms.  Going with minimum requirements for challenge 15.  
+
+**Link(s) to work**
+
