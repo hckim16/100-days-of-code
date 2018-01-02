@@ -18,7 +18,7 @@
 1. Twitchtv(https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 2. My pen(https://codepen.io/hk388/pen/zpwNEW)
 
-### Day 2: December 31, Sunday
+### Day 3: December 31, Sunday
 
 **Today's Progress**: Finished Twitch.tv project.
 
@@ -26,3 +26,10 @@
 
 **Link(s) to work**
 
+### Day 4: January 1, Monday
+
+**Today's Progress**: Worked through 3 basic algorithm problems on freeCodeCamp and reviewed minHeap, maxHeap
+
+**Thoughts** Happy New Year -start by coding  
+
+**Link(s) to work**
