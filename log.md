@@ -33,3 +33,11 @@
 **Thoughts** Happy New Year -start by coding  
 
 **Link(s) to work**
+
+### Day 5: January 2, Tuesday
+
+**Today's Progress**: Worked complete hashtable coding with Paul Programming's youtube video series, https://www.youtube.com/watch?v=MfhjkfocRR0 Also freecodecamp algorithms, HTML entities and Sorted Unions
+
+**Thoughts** Solid progress, feel good about what I learned today.  
+
+**Link(s) to work**
