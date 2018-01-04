@@ -41,3 +41,11 @@
 **Thoughts** Solid progress, feel good about what I learned today.  
 
 **Link(s) to work**
+
+### Day 6: January 3, Wednesday
+
+**Today's Progress**: Worked 3 more algorithm problems on freeCodeCamp
+
+**Thoughts** Good. Worked my own solutions versus what's on Youtube.  Getting there I think  
+
+**Link(s) to work**
