@@ -49,3 +49,11 @@
 **Thoughts** Good. Worked my own solutions versus what's on Youtube.  Getting there I think  
 
 **Link(s) to work**
+
+### Day 7: January 4, Thursday
+
+**Today's Progress**: Worked 2 more algorithm problems on freeCodeCamp
+
+**Thoughts** Good day coding.  
+
+**Link(s) to work**
