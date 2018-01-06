@@ -58,7 +58,7 @@
 
 **Link(s) to work**
 
-### Day 7: January 5, Friday
+### Day 8: January 5, Friday
 
 **Today's Progress**: Studied maxHeap/minHeap to code problem of finding running median in a vector array, plus code of freeCodeCamp algorithm problems.
 
