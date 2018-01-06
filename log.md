@@ -57,3 +57,11 @@
 **Thoughts** Good day coding.  
 
 **Link(s) to work**
+
+### Day 7: January 5, Friday
+
+**Today's Progress**: Studied maxHeap/minHeap to code problem of finding running median in a vector array, plus code of freeCodeCamp algorithm problems.
+
+**Thoughts** Not easy but learning.  
+
+**Link(s) to work**
