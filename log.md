@@ -65,3 +65,11 @@
 **Thoughts** Not easy but learning.  
 
 **Link(s) to work**
+
+### Day 9: January 6, Saturday
+
+**Today's Progress**: Intermediate algorithm scripting (freeCodeCamp) complete.  Last two done with crutch of youtube videos - nice.
+
+**Thoughts** Ended feeling "comfortable" with algorithm progress.  
+
+**Link(s) to work**
