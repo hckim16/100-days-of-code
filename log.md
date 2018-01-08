@@ -73,3 +73,11 @@
 **Thoughts** Ended feeling "comfortable" with algorithm progress.  
 
 **Link(s) to work**
+
+### Day 10: January 7, Sunday
+
+**Today's Progress**: Thought I was making progress, then facebook logged me out for "security reasons" and will not let me log back in.  Don't like facebook!  Use regex to work freeCodeCamp's telephone number algorithm.  Good exercise.
+
+**Thoughts** Irritated over facebook  
+
+**Link(s) to work**
