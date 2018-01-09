@@ -82,7 +82,7 @@
 
 **Link(s) to work**
 
-### Day 11: January 8, MOnday
+### Day 11: January 8, Monday
 
 **Today's Progress**: Not much progress on heap-running median program.
 
