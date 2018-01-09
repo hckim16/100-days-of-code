@@ -81,3 +81,11 @@
 **Thoughts** Irritated over facebook  
 
 **Link(s) to work**
+
+### Day 11: January 8, MOnday
+
+**Today's Progress**: Not much progress on heap-running median program.
+
+**Thoughts** Not easy but keep at it til I get right  
+
+**Link(s) to work**
