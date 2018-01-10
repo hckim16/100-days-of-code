@@ -89,3 +89,11 @@
 **Thoughts** Not easy but keep at it til I get right  
 
 **Link(s) to work**
+
+### Day 12: January 9, Tuesday
+
+**Today's Progress**: Set up Development environment for Hyperledger Fabric to work blockchain
+
+**Thoughts** some challenges, got it working  
+
+**Link(s) to work**
