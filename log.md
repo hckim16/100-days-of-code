@@ -97,3 +97,11 @@
 **Thoughts** some challenges, got it working  
 
 **Link(s) to work**
+
+### Day 13: January 10, Wednesday
+
+**Today's Progress**: Went back to freeCodeCamp advance algorithm 
+
+**Thoughts** not easy, heap frustrating, blockchain not working  
+
+**Link(s) to work**
