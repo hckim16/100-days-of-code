@@ -105,3 +105,11 @@
 **Thoughts** not easy, heap frustrating, blockchain not working  
 
 **Link(s) to work**
+
+### Day 14: January 11, Thursday
+
+**Today's Progress**: Worked freeCodeCamp No repeat.  Used information from Youtube
+
+**Thoughts** not in coding mode but plowed through anyways  
+
+**Link(s) to work**
