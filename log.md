@@ -113,3 +113,11 @@
 **Thoughts** not in coding mode but plowed through anyways  
 
 **Link(s) to work**
+
+### Day 15: January 12, Fridday
+
+**Today's Progress**: Plowed my way through all the Advance algorithm challenges
+
+**Thoughts** Not too bad  
+
+**Link(s) to work**
