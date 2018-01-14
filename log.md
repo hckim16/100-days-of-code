@@ -122,7 +122,7 @@
 
 **Link(s) to work**
 
-### Day 15: January 13, Saturday
+### Day 16: January 13, Saturday
 
 **Today's Progress**: Worked Personal Portfolio
 
