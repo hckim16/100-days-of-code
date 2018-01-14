@@ -114,9 +114,17 @@
 
 **Link(s) to work**
 
-### Day 15: January 12, Fridday
+### Day 15: January 12, Friday
 
 **Today's Progress**: Plowed my way through all the Advance algorithm challenges
+
+**Thoughts** Not too bad  
+
+**Link(s) to work**
+
+### Day 15: January 13, Saturday
+
+**Today's Progress**: Worked Personal Portfolio
 
 **Thoughts** Not too bad  
 
