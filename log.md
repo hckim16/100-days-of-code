@@ -129,3 +129,11 @@
 **Thoughts** Not too bad  
 
 **Link(s) to work**
+
+### Day 17: January 14, Sunday
+
+**Today's Progress**: Studied Node.js and beginnings of twitter bot, installed homebrew
+
+**Thoughts** followed along on video  
+
+**Link(s) to work**
