@@ -137,3 +137,12 @@
 **Thoughts** followed along on video  
 
 **Link(s) to work**
+
+### Day 18: January 15, Monday
+
+**Today's Progress**: Finished Markdown Previewer
+
+**Thoughts** confident on basics of React and classic/function components  
+
+**Link(s) to work**
+https://codepen.io/hk388/full/JMBgmQ/
