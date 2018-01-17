@@ -146,3 +146,11 @@
 
 **Link(s) to work**
 https://codepen.io/hk388/full/JMBgmQ/
+
+### Day 19: January 16, Tuesday
+
+**Today's Progress**: Set up node.js, npm and created twitter app account (package.json, config files, index.js) 
+
+**Thoughts** good  
+
+**Link(s) to work**
