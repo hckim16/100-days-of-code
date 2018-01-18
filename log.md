@@ -154,3 +154,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** good  
 
 **Link(s) to work**
+
+### Day 20: January 17, Wednesday
+
+**Today's Progress**: Set up fcc Javascript Calculator 
+
+**Thoughts** good  
+
+**Link(s) to work**
