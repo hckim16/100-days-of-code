@@ -162,3 +162,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** good  
 
 **Link(s) to work**
+
+### Day 21: January 18, Thursday
+
+**Today's Progress**: Worked on my TwitBot
+
+**Thoughts** good  
+
+**Link(s) to work**
