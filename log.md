@@ -170,3 +170,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** good  
 
 **Link(s) to work**
+
+### Day 22: January 19, Friday
+
+**Today's Progress**: Worked Pomodoro clock with Mark Snow videos.  Stuff on why the counter isn't stopping at 0.  Seems like I have it coded right, going to have to keep debugging
+
+**Thoughts** stuck but not frustrated.  learning by researching and trying.  good  
+
+**Link(s) to work**
