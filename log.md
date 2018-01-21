@@ -178,3 +178,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** stuck but not frustrated.  learning by researching and trying.  good  
 
 **Link(s) to work**
+
+### Day 23: January 20, Saturday
+
+**Today's Progress**: Accept for sound, the pomodoro works great.  Good progress
+
+**Thoughts** good about debugging and getting the program to work on the main  
+
+**Link(s) to work**
