@@ -186,3 +186,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** good about debugging and getting the program to work on the main  
 
 **Link(s) to work**
+
+### Day 24: January 21, Sunday
+
+**Today's Progress**: Wrote simple tic tac toe following along with Adam Coder's https://www.youtube.com/watch?v=zqiyKEVLGsc&list=PLeLwVYBodOL1xr7N3zd11lF6IpYrwqVTV
+
+**Thoughts** Pretty basic, work on getting it to fcc requirements tomorrow.  
+
+**Link(s) to work**
