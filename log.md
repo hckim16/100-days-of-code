@@ -194,3 +194,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** Pretty basic, work on getting it to fcc requirements tomorrow.  
 
 **Link(s) to work**
+
+### Day 25: January 22, Monday
+
+**Today's Progress**: Computer play with tic tac toe much harder than I anticipated.
+
+**Thoughts** Not of work for not to show.  Not especially encouraging 
+
+**Link(s) to work**
