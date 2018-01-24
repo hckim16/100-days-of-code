@@ -202,3 +202,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** Not of work for not to show.  Not especially encouraging 
 
 **Link(s) to work**
+
+### Day 26: January 23, Tuesday
+
+**Today's Progress**: Redid tic tac toe code with minmax algorithm for ai .
+
+**Thoughts** difficult 
+
+**Link(s) to work**
