@@ -210,3 +210,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** difficult 
 
 **Link(s) to work**
+
+### Day 27: January 24, Wednesday
+
+**Today's Progress**: More time studying Internet Network for school with a some more tic tac toe
+
+**Thoughts** difficult 
+
+**Link(s) to work**
