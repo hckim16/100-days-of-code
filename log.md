@@ -218,3 +218,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** difficult 
 
 **Link(s) to work**
+
+### Day 27: January 25, Thurday
+
+**Today's Progress**: no coding, studied Angular
+
+**Thoughts** difficult 
+
+**Link(s) to work**
