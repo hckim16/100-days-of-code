@@ -226,3 +226,12 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** difficult 
 
 **Link(s) to work**
+
+### Day 28: January 26, Friday
+
+**Today's Progress**: Worked learning iOS app coding with code with chris youtube videos
+
+**Thoughts** very good
+
+
+**Link(s) to work**
