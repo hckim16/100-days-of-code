@@ -235,7 +235,7 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
-### Day 28: January 26, Friday
+### Day 29: January 27, Saturday
 
 **Today's Progress**: Built simple apple app and deployed to iphone
 
