@@ -242,3 +242,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** very good
 
 **Link(s) to work**
+
+### Day 30: January 28, Sunday
+
+**Today's Progress**: Success, coded running median for Hackerrank
+
+**Thoughts** sweet
+
+**Link(s) to work**
