@@ -250,3 +250,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** sweet
 
 **Link(s) to work**
+
+### Day 31: January 29, Monday
+
+**Today's Progress**: Redid Personal Portfolio
+
+**Thoughts** looks good
+
+**Link(s) to work**
