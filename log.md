@@ -258,3 +258,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** looks good
 
 **Link(s) to work**
+
+### Day 32: January 30, Tuesday
+
+**Today's Progress**: Back to Drawing Board on iOS weather app
+
+**Thoughts** not feeling great about redoing this
+
+**Link(s) to work**
