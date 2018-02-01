@@ -266,3 +266,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** not feeling great about redoing this
 
 **Link(s) to work**
+
+### Day 33: January 31, Wednesday
+
+**Today's Progress**: Another apple app video.  Got compiling but worked through the error and found problem.
+
+**Thoughts** feel good about debugging
+
+**Link(s) to work**
