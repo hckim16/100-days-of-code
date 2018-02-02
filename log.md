@@ -274,3 +274,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feel good about debugging
 
 **Link(s) to work**
+
+### Day 34: February 1, Thursday
+
+**Today's Progress**: Frustrating day with iOS weather app
+
+**Thoughts** lot of hours and stuck one error that I can get over
+
+**Link(s) to work**
