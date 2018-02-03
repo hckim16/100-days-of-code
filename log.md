@@ -282,3 +282,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** lot of hours and stuck one error that I can get over
 
 **Link(s) to work**
+
+### Day 34: February 2, Friday
+
+**Today's Progress**: Learning Angular and Ionic
+
+**Thoughts** Good
+
+**Link(s) to work**
