@@ -283,7 +283,7 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
-### Day 34: February 2, Friday
+### Day 35: February 2, Friday
 
 **Today's Progress**: Learning Angular and Ionic
 
@@ -291,7 +291,7 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
-### Day 35: February 3, Saturday
+### Day 36: February 3, Saturday
 
 **Today's Progress**: Successfully deployed Weather app to iOS
 
