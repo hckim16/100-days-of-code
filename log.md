@@ -290,3 +290,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** Good
 
 **Link(s) to work**
+
+### Day 35: February 3, Saturday
+
+**Today's Progress**: Successfully deployed Weather app to iOS
+
+**Thoughts** feels good
+
+**Link(s) to work**
