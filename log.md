@@ -306,3 +306,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feels good
 
 **Link(s) to work**
+
+### Day 38: February 5, Monday
+
+**Today's Progress**: c++ code for hackerrank
+
+**Thoughts** feels good
+
+**Link(s) to work**
