@@ -314,3 +314,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feels good
 
 **Link(s) to work**
+
+### Day 39: February 6, Tuesday
+
+**Today's Progress**: Angular 4
+
+**Thoughts** feels good
+
+**Link(s) to work**
