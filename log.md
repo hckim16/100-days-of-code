@@ -322,3 +322,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feels good
 
 **Link(s) to work**
+
+### Day 40: February 7, Wednesday
+
+**Today's Progress**: Blockchain essentials
+
+**Thoughts** feels good
+
+**Link(s) to work**
