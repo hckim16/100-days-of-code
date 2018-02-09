@@ -330,3 +330,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feels good
 
 **Link(s) to work**
+
+### Day 41: February 8, Thursday
+
+**Today's Progress**: Tic Tac Toe Done
+
+**Thoughts** feels good
+
+**Link(s) to work**
