@@ -338,3 +338,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** feels good
 
 **Link(s) to work**
+
+### Day 42: February 9, Friday
+
+**Today's Progress**: couple of codes, mostly njit homework
+
+**Thoughts** 
+
+**Link(s) to work**
