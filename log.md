@@ -114,6 +114,7 @@
 
 **Link(s) to work**
 
+
 ### Day 15: January 12, Friday
 
 **Today's Progress**: Plowed my way through all the Advance algorithm challenges
@@ -342,6 +343,14 @@ https://codepen.io/hk388/full/JMBgmQ/
 ### Day 42: February 9, Friday
 
 **Today's Progress**: couple of codes, mostly njit homework
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 43: February 10, Saturday
+
+**Today's Progress**: Worked coding challenges
 
 **Thoughts** 
 
