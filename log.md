@@ -355,3 +355,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 44: February 11, Sunday
+
+**Today's Progress**: IBM coding challenge - ouch
+
+**Thoughts** unprintable
+
+**Link(s) to work**
