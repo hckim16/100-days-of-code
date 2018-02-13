@@ -363,3 +363,11 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** unprintable
 
 **Link(s) to work**
+
+### Day 45: February 12, Monday
+
+**Today's Progress**: Hyperledger composer-playground
+
+**Thoughts** unprintable
+
+**Link(s) to work**
