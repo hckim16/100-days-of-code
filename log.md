@@ -372,7 +372,7 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
-### Day 45: February 13, Tuesday
+### Day 46: February 13, Tuesday
 
 **Today's Progress**: CS630 HW and some codes
 
@@ -380,7 +380,7 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
-### Day 46: February 14, Wednesday
+### Day 47: February 14, Wednesday
 
 **Today's Progress**: Module 25 of Blockchain Developer Foundation course
 
