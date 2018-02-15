@@ -371,3 +371,20 @@ https://codepen.io/hk388/full/JMBgmQ/
 **Thoughts** unprintable
 
 **Link(s) to work**
+
+### Day 45: February 13, Tuesday
+
+**Today's Progress**: CS630 HW and some codes
+
+**Thoughts** unprintable
+
+**Link(s) to work**
+
+### Day 46: February 14, Wednesday
+
+**Today's Progress**: Module 25 of Blockchain Developer Foundation course
+
+**Thoughts** it's working
+
+**Link(s) to work**
+
