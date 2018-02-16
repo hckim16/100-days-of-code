@@ -388,3 +388,10 @@ https://codepen.io/hk388/full/JMBgmQ/
 
 **Link(s) to work**
 
+### Day 48: February 15, Thursday
+
+**Today's Progress**: nearly done with simon game and finished blockchain course
+
+**Thoughts** more like 5 hours of coding!
+
+**Link(s) to work**
